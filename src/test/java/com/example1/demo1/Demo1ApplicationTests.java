@@ -8,6 +8,7 @@ class Demo1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("this is displayform() method");
 	}
 
 }
