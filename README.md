@@ -60,5 +60,5 @@ Once we are logged in as ec2-user we are inside VM. We can perform linux command
   
   link :  * https://github.com/balavi7/deploy.git
   
-  
+  ![New Doc 2021-05-28 16 56 03_1](https://user-images.githubusercontent.com/82412177/119977917-99d96580-bfd6-11eb-9b77-9020c399ec8f.jpg)
      
