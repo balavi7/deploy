@@ -58,4 +58,7 @@ Once we are logged in as ec2-user we are inside VM. We can perform linux command
   this command will build the jar compile the test and run our project.
   We can deploy through post build steps.
   
+  link :  * https://github.com/balavi7/deploy.git
+  
+  
      
