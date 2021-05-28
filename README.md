@@ -9,7 +9,7 @@ Click on file,import and select the location where your java project is residing
 ### Step 4
 In the package explorer section we get our project, in src/main/java we have our application.java file, controller.java file and in target we have our pom.xml file.
 ## Steps to push it to github (github is used as code repository)
-## Before that we have to create a repository in github. after creating it will provide us a path or location.
+### Before that we have to create a repository in github. after creating it will provide us a path or location.
 ### Click on the project name then click on properties and go to the location of our project. Open command line on this location and initialize git command.
 #### commands
 * git init
@@ -19,7 +19,7 @@ In the package explorer section we get our project, in src/main/java we have our
 * git remote add origin "give the path url of github"
 * git push - u origin master
 #### we have configured
-## Next is to create a EC2 instance ( we will have to create an AWS account for it )
+### Next is to create a EC2 instance ( we will have to create an AWS account for it )
 Create an account and log in using the id and password.
 ## Steps to create an ec2 instance
 ### Step 1
